@@ -2,9 +2,32 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18481598&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+1)Repositories-A repository is a storage location for code,containing all files and their history changes.
+2)Commits-A commit is a snapshot of changes made of files,allowing developers to track  progress. 
+3)Branches-Branching allows developers to create seperate versions of a project to work on new features or fixes without affecting the main codebase.
+4)Merging-Merging intergrates changes from different branches into one unified version.
+
+*How version control maintain project intergrity:
+-Tracks every change
+-Prevents data loss
+-Enables safe collaboration
+-Detects and resolves conflicts
+
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-
+PROCESS
+1.Sign in to GitHub 
+2.Create a New Repository
+3.Choose Repository Visibility
+4.Initialize the Repository 
+5.Create the Repository
+6.Clone the Repository
+7.Start Adding and Commiting Code
+IMPORTANT DECISIONS
+-Repository Name
+-Visibilty(Public vs. Private)
+-Initializing with README and .giticore
+-Branching strategy.
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
